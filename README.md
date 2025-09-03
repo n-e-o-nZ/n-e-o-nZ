@@ -1,5 +1,3 @@
 <div style="text-align:center;">
-  <p align="center">
-    <div class="tenor-gif-embed" data-postid="13397875673260883779" data-share-method="host" data-aspect-ratio="0.965863" data-width="100%"><a href="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779">Oiia Oiiaoiia GIF</a>from <a href="https://tenor.com/search/oiia-gifs">Oiia GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-  </p>
+  <div class="tenor-gif-embed" data-postid="7952242942163821023" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-oiiaoiia-cat-cat-spinning-gif-7952242942163821023">Cat Oiiaoiia Cat Spinning Sticker</a>from <a href="https://tenor.com/search/cat+oiiaoiia-stickers">Cat Oiiaoiia Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
