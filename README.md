@@ -1,4 +1,3 @@
-<div style="text-align:center;">
-  <h4>Hi! Welocme to my page.</h4>
-  <p>Scroll down to see some of my projects.</p>
-</div>
+<h1 align="center">Hi!</h1>
+<h4 align="center">Im teenage programmer that likes very hard and crazis porjects.</h4>
+<p align="center">Scroll down to see my projects</p>
